@@ -29,8 +29,8 @@
 
 Youtube - https://youtube.com/channel/link_do_canal
 Instagram - https://instagram.com/nome_do_instagram
-Discord - 
+Discord - https://discord.gg/5DVhGKVf4h
 E-mail - mailto:exemplo@gmail.com
-LinkedIn - 
+LinkedIn - https://www.linkedin.com/in/ricardohdias
 
 >

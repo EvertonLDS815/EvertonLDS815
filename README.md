@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao perfil do EvertonLDS815
+## Seja bem vindo ao meu Github!!!
+
+<h3>Olá!! Eu sou Everton Lino. Sou um desenvolvedor Front-End, sou um estudante e estou querendo começar a minha vida nessa área de desenvolvimento. Aqui estão meus projetos feitos com HTML, CSS e Javascript. </h3>
  <div>
    <a href="https://github.com/EvertonLDS815">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonLDS815&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

@@ -1,6 +1,6 @@
 ## Seja bem vindo ao meu Github!!!
 
-<h3>Olá!! Eu sou Everton Lino. Sou um desenvolvedor Front-End, sou um estudante e estou querendo começar a minha vida nessa área de desenvolvimento. Aqui estão meus projetos feitos com HTML, CSS e Javascript. </h3>
+<h3>Olá!! Eu sou Everton Lino. Sou um desenvolvedor Full-Stack, estou sempre em constante estudo com aprendizado no desenvolvimento e entendendo as boas práticas do mercado. Aqui estão meus projetos feitos com React, Node, Javascript e MongoDB. </h3>
  <div>
    <a href="https://github.com/EvertonLDS815">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonLDS815&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -8,9 +8,14 @@
 </div>
  <br>
 <div style="display: inline_block">
+ <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
  
  
